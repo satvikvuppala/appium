@@ -33,7 +33,7 @@ public class appium {
 		
 	    // Perform your test actions
 
-	    // Close the driver
+	    // Close the application and driver
 	    driver.quit();
 	  }
 	}
