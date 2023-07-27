@@ -32,7 +32,6 @@ public class appium {
 		Thread.sleep(5000);
 		
 	    // Perform your test actions
-	    // ...
 
 	    // Close the driver
 	    driver.quit();
